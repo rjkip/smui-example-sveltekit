@@ -1,3 +1,4 @@
-/.svelte/
+/.netlify/
+/.svelte-kit/
 /build/
 /node_modules/
